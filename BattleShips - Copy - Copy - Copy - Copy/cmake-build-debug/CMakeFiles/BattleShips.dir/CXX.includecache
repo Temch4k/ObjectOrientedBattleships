@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/Ships.h
+string
+-
+
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/field.cpp
+field.h
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/field.h
+iostream
+-
+
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/field.h
+iostream
+-
+Ships.h
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/Ships.h
+
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/functions.h
+vector
+-
+
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/main.cpp
+field.h
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/field.h
+functions.h
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/functions.h
+Ships.h
+C:/Users/angry/CLionProjects/BattleShips - Copy - Copy - Copy - Copy/Ships.h
+iostream
+-
+fstream
+-
+vector
+-
+
